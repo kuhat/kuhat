@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kuhat
+# 👋 Hi, I’m wenhao@kuhat
 - 👀 I am passionate about new technologies and writing powerful and useful programs. My ambition is to secure a position at any one of those IT giants. 
 Also, I am a person with strong leadership, and I am experienced in leading SDE teams to explore new functions and carry out software process.
 + My interests are web development, container orchestration, and so on. The technology I am using is Django, React.JS, Docker, Kubernetes, SpringBoot and so on.
