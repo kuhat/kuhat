@@ -7,7 +7,7 @@ Here is my personal tech blog https://kuhat.github.io/From-a-beginner-to-a-devel
 - 🌱 I’m currently Master student at Boston University, Majoring in Computer Science, software engineering focused.
 My undergraduate study completed at Xi'an Jiaotong-Liverpool University Information and computing Science, with a GPA of 3.76/4.0.
 
-- 💞️ I’m actively seeking opportunity for 2023 summer SDE Internship in the US. This is my linkedin profile: https://www.linkedin.com/in/wenhaozhou1802/
+- 💞️ I’m actively seeking opportunity for 2024 NG SDE position in the US. This is my linkedin profile: https://www.linkedin.com/in/wenhaozhou1802/
 - 📫 Please contact wenhao.zhou1802@gmail.com for connection, I am happly to be friends with you.
 
 <!---
