@@ -1,5 +1,5 @@
 # 👋 Hi, I’m wenhao@kuhat 
-+ Software Enginner Intern at Techsmith
++ Software Enginner Intern @ Techsmith
 + MS in Computer Science @ Boston University
 + BS in Information and Computing Science @ University of Liverpool
 - 👀 I am passionate about new technologies and writing powerful and useful programs. My ambition is to secure a position at any one of those IT giants. 
