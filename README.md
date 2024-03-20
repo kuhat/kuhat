@@ -1,4 +1,5 @@
 # 👋 Hi, I’m wenhao@kuhat 
++ Software Engineer @ Bytedance PICO 
 + Software Enginner Intern @ Techsmith
 + MS in Computer Science @ Boston University
 + BS in Information and Computing Science @ University of Liverpool
